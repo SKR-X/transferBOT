@@ -1,0 +1,1 @@
+<? fwrite(fopen('ww.txt','w'),'test');
